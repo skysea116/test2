@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stowarszawa.pl/sitemap.xml
